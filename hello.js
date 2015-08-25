@@ -14,6 +14,8 @@
 
 <!-- Here Binding is done -->
 <div ng-bind="name"></div>
+This is also work like this.
+{{name}}
 </div>
 
 </body>
