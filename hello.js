@@ -19,5 +19,8 @@ This is also work like this.
 {{name}}
 </div>
 
+Angular js expression
+{{5+2}}
+
 </body>
 </html>
