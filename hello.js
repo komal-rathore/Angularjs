@@ -24,5 +24,12 @@ Angular js expression
 {{'ds'+"dfsd"}}
 {{dsf+'45'}}
 {{5s+'56'}}
+
+
+Points on Controller
+1. We can have many controller in one html
+2. Every Controller should have one unique name.
+3. If we assign controller to a tag then it access only those variable which are within the scope.
+
 </body>
 </html>
