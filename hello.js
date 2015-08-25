@@ -4,8 +4,9 @@
 <script src= "http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
 <body>
 
-<!-- IT must bedeclare here -->
-<div ng-app="">
+<!-- It must bedeclare here ng-app -->
+<!-- using ng-init we can initialize our model object -->
+<div ng-app="" ng-init="name='John'">
  
 <p>Input something in the input box:</p>
 
