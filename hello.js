@@ -21,6 +21,8 @@ This is also work like this.
 
 Angular js expression
 {{5+2}}
-
+{{'ds'+"dfsd"}}
+{{dsf+'45'}}
+{{5s+'56'}}
 </body>
 </html>
