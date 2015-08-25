@@ -10,8 +10,8 @@
  
 <p>Input something in the input box:</p>
 
-
-<p>Name: <input type="text" ng-model="name"></p>
+ng-model is used with the input tag in html5.
+<p>Name: <input type="text" ng-model="name"></p> 
 
 <!-- Here Binding is done -->
 <div ng-bind="name"></div>
